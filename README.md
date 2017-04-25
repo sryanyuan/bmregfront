@@ -1,2 +1,2 @@
 # bmregfront
-bm register or modify password ui for bmwebsvrapp
+bm web ui for bmwebsvrapp
